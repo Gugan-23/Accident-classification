@@ -6,3 +6,4 @@ pillow
 pymongo
 waitress
 cloudinary
+gunicorn
